@@ -1,0 +1,8 @@
+---
+title: "Emissions Dashboard Documentation"
+format: html
+---
+
+# Welcome to the Emissions Dashboard Documentation
+
+This documentation provides insights into the emissions dashboard, including data sources, modeling assumptions, and methodology.
